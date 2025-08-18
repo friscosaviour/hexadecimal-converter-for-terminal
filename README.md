@@ -4,7 +4,7 @@ This tool allows you to convert the content of `.md` files to a double hexadecim
 
 ## Installation
 
-1.  **Run the installation script:**
+1.  **Run the installation script :**
 
     ```bash
     ./install.sh
